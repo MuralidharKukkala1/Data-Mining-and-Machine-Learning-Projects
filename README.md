@@ -1,12 +1,4 @@
 # Portfolio of Studies: Data Mining and Machine Learning (H9DMML)
-
-**Course:** MSc in Data Analytics  
-**Module:** Data Mining and Machine Learning (H9DMML)  
-**Lecturer:** Jaswinder Singh  
-**Assessment:** Portfolio of Studies (40%)  
-**Student:** Muralidhar Kukkala  
-**Course Code:** MSCDAD_JAN25A_I  
-
 ---
 
 ## 📘 Overview
